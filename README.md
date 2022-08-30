@@ -6,11 +6,7 @@ Build instructions can be found [here](https://github.com/catheart97/imp-client/
 
 ## Images
 
-<div style="display: flex; flex-wrap: nowrap; margin: 0;padding: 0;scroll-behavior: smooth;overflow-x: scroll;">
-  <figure>
-    <img src="Images/piano.png" style="border-radius: 20px; min-width: 80vw;">
-  </figure>
-  <figure>
-    <img src="Images/ui.png" style="border-radius: 20px; min-width: 80vw;">
-  </figure>
-</div>
+<p>
+<img src="Images/ui.png" style="border-radius: 20px; width: 40%;">
+<img src="Images/piano.png" style="border-radius: 20px; width: 40%;">
+</p>
